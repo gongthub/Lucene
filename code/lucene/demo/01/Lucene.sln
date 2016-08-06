@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2012
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "Lucene", "Lucene\", "{400059B0-892A-427F-BF59-0E73C68BC0A4}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFrameworkMoniker = ".NETFramework,Version%3Dv4.5"
+		ProjectReferences = "{64810b25-6898-4181-988c-8aad6bf07527}|BLL.dll;{e855307c-947d-45e0-8459-48fe342c7eec}|Model.dll;{5ABE658C-7C0A-4215-B4A0-F6941B9E87B7}|DAL.dll;"
+		Debug.AspNetCompiler.VirtualPath = "/Lucene"
+		Debug.AspNetCompiler.PhysicalPath = "Lucene\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\Lucene\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/Lucene"
+		Release.AspNetCompiler.PhysicalPath = "Lucene\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\Lucene\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "20610"
+	EndProjectSection
+	ProjectSection(ProjectDependencies) = postProject
+		{64810B25-6898-4181-988C-8AAD6BF07527} = {64810B25-6898-4181-988C-8AAD6BF07527}
+		{E855307C-947D-45E0-8459-48FE342C7EEC} = {E855307C-947D-45E0-8459-48FE342C7EEC}
+	EndProjectSection
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BLL", "BLL\BLL.csproj", "{64810B25-6898-4181-988C-8AAD6BF07527}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DAL", "DAL\DAL.csproj", "{5ABE658C-7C0A-4215-B4A0-F6941B9E87B7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Model", "Model\Model.csproj", "{E855307C-947D-45E0-8459-48FE342C7EEC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{400059B0-892A-427F-BF59-0E73C68BC0A4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{400059B0-892A-427F-BF59-0E73C68BC0A4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{400059B0-892A-427F-BF59-0E73C68BC0A4}.Release|Any CPU.ActiveCfg = Debug|Any CPU
+		{400059B0-892A-427F-BF59-0E73C68BC0A4}.Release|Any CPU.Build.0 = Debug|Any CPU
+		{64810B25-6898-4181-988C-8AAD6BF07527}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64810B25-6898-4181-988C-8AAD6BF07527}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64810B25-6898-4181-988C-8AAD6BF07527}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64810B25-6898-4181-988C-8AAD6BF07527}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ABE658C-7C0A-4215-B4A0-F6941B9E87B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ABE658C-7C0A-4215-B4A0-F6941B9E87B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ABE658C-7C0A-4215-B4A0-F6941B9E87B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ABE658C-7C0A-4215-B4A0-F6941B9E87B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E855307C-947D-45E0-8459-48FE342C7EEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E855307C-947D-45E0-8459-48FE342C7EEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E855307C-947D-45E0-8459-48FE342C7EEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E855307C-947D-45E0-8459-48FE342C7EEC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

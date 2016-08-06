@@ -1,0 +1,9 @@
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\bin\Debug\LuceneDemo.BLL.dll
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\bin\Debug\LuceneDemo.BLL.pdb
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\bin\Debug\LuceneDemo.DAL.dll
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\bin\Debug\LuceneDemo.Model.dll
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\bin\Debug\LuceneDemo.DAL.pdb
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\bin\Debug\LuceneDemo.Model.pdb
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\obj\Debug\LuceneDemo.BLL.csprojResolveAssemblyReference.cache
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\obj\Debug\LuceneDemo.BLL.dll
+D:\Project\Lucene\Codes\LuceneDemo\LuceneDemo.BLL\obj\Debug\LuceneDemo.BLL.pdb

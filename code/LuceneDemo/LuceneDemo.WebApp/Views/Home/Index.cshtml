@@ -1,0 +1,39 @@
+﻿@model List<LuceneDemo.Model.Content>
+
+@using (Html.BeginForm("Index", "Home"))
+{
+    <div>
+        <input type="text" name="words" />
+        <input type="submit" value="查询" />
+        <input type="button" onclick="btnAdd()" value="添加索引" />
+    </div>
+
+}
+
+<div>
+    @if (Model != null && Model.Count > 0)
+    {
+        foreach (LuceneDemo.Model.Content mod in Model)
+        {
+            <p>@mod.Title</p>
+        }
+    }
+</div>
+<script type="text/javascript">
+
+    function btnAdd() {
+        $.ajax({
+            type: 'get',
+            url: '/Home/Add',
+            dataType: 'text',
+            success: function (data) {
+                var da = eval(data);
+                alert(da.msg);
+            },
+            error: function () {
+                alert("异常！");
+            }
+        });
+    }
+
+</script>

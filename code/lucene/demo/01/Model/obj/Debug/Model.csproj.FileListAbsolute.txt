@@ -1,0 +1,13 @@
+C:\Users\Administrator\Desktop\LuceneDemo\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\LuceneDemo\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\LuceneDemo\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\LuceneDemo\Model\obj\Debug\Model.pdb
+C:\Users\Administrator\Desktop\LuceneDemo\Model\obj\Debug\Model.csprojResolveAssemblyReference.cache
+C:\Users\Administrator\Desktop\LuceneTest\01\Model\bin\Debug\Model.dll
+C:\Users\Administrator\Desktop\LuceneTest\01\Model\bin\Debug\Model.pdb
+C:\Users\Administrator\Desktop\LuceneTest\01\Model\obj\Debug\Model.dll
+C:\Users\Administrator\Desktop\LuceneTest\01\Model\obj\Debug\Model.pdb
+D:\Project\Lucene\Codes\lucene\demo\01\Model\bin\Debug\Model.dll
+D:\Project\Lucene\Codes\lucene\demo\01\Model\bin\Debug\Model.pdb
+D:\Project\Lucene\Codes\lucene\demo\01\Model\obj\Debug\Model.dll
+D:\Project\Lucene\Codes\lucene\demo\01\Model\obj\Debug\Model.pdb
